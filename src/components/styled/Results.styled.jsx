@@ -51,6 +51,7 @@ export const StyledGrid = styled.div`
 export const StyledCard = styled.div`
   background-color: #f8cbd7;
   border-radius: 8px;
+  cursor: pointer;
   overflow: hidden;
   box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.2), 0 4px 6px -4px rgb(0 0 0 / 0.2);
   grid-column: span 1 / span 1;
