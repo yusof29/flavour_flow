@@ -1,9 +1,10 @@
 # Flavour Flow
 
-[Live Site](https://good-al.netlify.app/)
+[Live Site](https://flavourflow.netlify.app/)
 
 ```
-A website where user can enter any ingredient they have at home and we will generate a variety of foods you can make with these ingredient.
+A website where user can enter any ingredient they have at home.
+the website will generate a variety of foods you can make with these ingredient.
 ```
 
-![Flavour Flow](https://github.com/yusof29/goodal/blob/0acf525ed6dae7bf94e6516cfa05c620aa04a11d/src/assets/readme/goodal.png "Flavour Flow")
+![Flavour Flow](https://github.com/yusof29/flavour_flow/blob/46fec6c45c85bbc43665a5b31dc2a3000f014fdc/src/assets/readme/flavourFlow.png "Flavour Flow")
